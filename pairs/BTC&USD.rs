@@ -8,4 +8,4 @@ use serde_json::Value;
 use std::collections::HashMap;
 use time::OffsetDateTime;
 
-pub struct BTC&USD
+pub struct BTCUSD

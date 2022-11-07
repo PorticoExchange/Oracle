@@ -2,4 +2,4 @@
 
 Price feed for DEX
 
-Powered by @lava-xyz
+Powered by [Lava](https://github.com/lava-xyz/sibyls)
